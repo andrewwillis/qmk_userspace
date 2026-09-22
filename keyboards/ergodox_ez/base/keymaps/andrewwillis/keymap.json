@@ -36,16 +36,16 @@
       "KC_P",
       "KC_RBRC",
       "MO(1)",
-      "KC_A",
-      "KC_S",
-      "KC_D",
-      "KC_F",
+      "MT(MOD_LCTL, KC_A)",
+      "MT(MOD_LALT, KC_S)",
+      "MT(MOD_LGUI, KC_D)",
+      "MT(MOD_LSFT, KC_F)",
       "KC_G",
       "KC_H",
-      "KC_J",
-      "KC_K",
-      "KC_L",
-      "KC_SCLN",
+      "MT(MOD_RSFT, KC_J)",
+      "MT(MOD_RGUI, KC_K)",
+      "MT(MOD_RALT, KC_L)",
+      "MT(MOD_RCTL, KC_SCLN)",
       "KC_QUOT",
       "KC_LSFT",
       "KC_Z",
@@ -319,6 +319,5 @@
       "KC_NO"
     ]
   ],
-  "author": "",
-  "modules": ["stasmarkin/sm_td"]
+  "author": ""
 }
