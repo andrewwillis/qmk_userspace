@@ -78,7 +78,7 @@
             "KC_LSFT",
             "KC_RSFT",
             "KC_BSPC",
-            "KC_DEL",
+            "LT(1, KC_DEL)",
             "KC_LGUI",
             "KC_RGUI",
             "KC_ENT",
